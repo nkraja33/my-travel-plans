@@ -28,7 +28,7 @@ body {
 }
 
 .destination {
-    background: #03a9f4;
+    background: seagreen;
     box-shadow: 0 1px 9px 0 rgba(0, 0, 0, 0.4);
     color: white;
     margin: 0.5em;
@@ -46,10 +46,10 @@ h2 {
     text-shadow: 0 0 5px #01579b;
 }
 
-#florida {
+#frankfurt {
     background-color: #03a9f4;
 }
 
-#paris {
+#ireland {
     background-color: #d32f2f;
 }
